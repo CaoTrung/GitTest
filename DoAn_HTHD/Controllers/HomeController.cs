@@ -13,6 +13,7 @@ namespace DoAn_HTHD.Controllers
 
         public ActionResult Index()
         {
+            //adfda
             return View();
         }
 
