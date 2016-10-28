@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoAn_HTHD", "DoAn_HTHD\DoAn_HTHD.csproj", "{6122ADAA-2A4A-4C99-ACA4-057564FD274F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoAn_HTHD.Tests", "DoAn_HTHD.Tests\DoAn_HTHD.Tests.csproj", "{2D5019E4-BB51-4960-9121-86F8592352EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6122ADAA-2A4A-4C99-ACA4-057564FD274F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6122ADAA-2A4A-4C99-ACA4-057564FD274F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6122ADAA-2A4A-4C99-ACA4-057564FD274F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6122ADAA-2A4A-4C99-ACA4-057564FD274F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D5019E4-BB51-4960-9121-86F8592352EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D5019E4-BB51-4960-9121-86F8592352EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D5019E4-BB51-4960-9121-86F8592352EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D5019E4-BB51-4960-9121-86F8592352EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
